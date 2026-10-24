@@ -1,10 +1,10 @@
-# Настройка C++ в VS Code на Windows 11
+# Настройка C/C++ в VS Code на Windows 11
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2011-lightgrey?style=flat-square)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
-> **Полное пошаговое руководство** по созданию современной среды разработки C++ на Windows 11 с нуля.
+> **Полное пошаговое руководство** по созданию современной среды разработки C/C++ на Windows 11 с нуля.
 
 ---
 
