@@ -1,4 +1,4 @@
-# 🚀 Настройка C++ в VS Code с MSYS2 (Windows)
+# 🚀 Настройка C/C++ в VS Code с MSYS2 (Windows)
 
 [![Maturity](https://img.shields.io/badge/Maturity-5%2F5%2B-brightgreen?style=flat-square)](https://github.com/yourusername/yourrepo)
 [![Quality](https://img.shields.io/badge/Quality-100%2F100%2B-blue?style=flat-square)](https://github.com/yourusername/yourrepo)
