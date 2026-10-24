@@ -1,7 +1,5 @@
 # 🚀 Настройка C/C++ в VS Code с MSYS2 (Windows)
 
-[![Maturity](https://img.shields.io/badge/Maturity-5%2F5%2B-brightgreen?style=flat-square)](https://github.com/yourusername/yourrepo)
-[![Quality](https://img.shields.io/badge/Quality-100%2F100%2B-blue?style=flat-square)](https://github.com/yourusername/yourrepo)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-lightgrey?style=flat-square)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
