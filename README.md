@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Настройка C++ в VS Code с MSYS2 (Windows)
 
 [![Maturity](https://img.shields.io/badge/Maturity-5%2F5%2B-brightgreen?style=flat-square)](https://github.com/yourusername/yourrepo)
